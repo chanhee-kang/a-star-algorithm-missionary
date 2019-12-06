@@ -1,8 +1,3 @@
-"""
-@creator: Chanhee. Kang
-student number: 2019711601
-
-"""
 from queue import PriorityQueue
 
 class MCNode:
