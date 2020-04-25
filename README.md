@@ -4,7 +4,7 @@ Three missionaries and three cannibals try to cross the river by boat. Only two 
 ### How to solve
 해당 프로그램을 git clone을 통해 다운로드 해줍니다.
 ```
-$git clone https://github.com/chanhee-kang/a-algorithm_missionary.git
+$git clone https://github.com/chanhee-kang/a-star-algorithm-missionary.git
 ```
 
 ### 실행
