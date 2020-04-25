@@ -8,7 +8,7 @@ $git clone https://github.com/chanhee-kang/a-algorithm_missionary.git
 ```
 
 ### 실행
-start.py 파일을 열어 주시면 아래의 코드가 열립니다
+start.py를 통해 a스타 알고리즘을 확인 가능합니다.
 
 ### Contact
 If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
